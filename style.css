@@ -1,0 +1,18 @@
+html,
+body {
+  color: #555555;
+  font-family: sans-serif;
+  font-size: 1;
+  margin: 0;
+}
+
+main {
+  margin: 5rem auto;
+  max-width: 90vw;
+  /* width is 50 character */
+  width: 50ch;
+}
+
+h1 {
+  color: #333;
+}
